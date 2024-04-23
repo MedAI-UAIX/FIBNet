@@ -1,4 +1,4 @@
-# Code for "An Ultrasound-Based Sequential Algorithm Integrating an AI-Derived Model for Advanced Liver Fibrosis Screening"
+# Code for "US-based Sequential Algorithm Integrating an AI Model for Advanced Liver Fibrosis Screening"
 
 Welcome to the official repository for our research on using ultrasound in conjunction with AI models to screen for advanced liver fibrosis. This repository contains the code accompanying our published article.
 
@@ -17,9 +17,10 @@ We are eager to collaborate with more researchers interested in the field of liv
 
 ## Citing Our Work
 If you find our work useful or incorporate our findings in your research, please cite our paper using the following format:
+
 ```bibtex
 @article{doi:10.1148/radiol.231461,
-  author = {Chen, Li-Da and Huang, Ze-Rong and Yang, Hong and Cheng, Mei-Qing and Hu, Hang-Tong and Lu, Xiao-Zhou and Li, Ming-De and Lu, Rui-Fang and He, Dan-Ni and Lin, Peng and Ma, Qiu-Ping and Huang, Hui and Ruan, Si-Min and Ke, Wei-Ping and Liao, Bing and Zhong, Bi-Hui and Ren, Jie and Lu, Ming-De and Xie, Xiao-Yan and Wang, Wei and Fowler, Kathryn J. and Panzer, Ariane},
+author = {Li-Da Chen, Ze-Rong Huang, Hong Yang, Mei-Qing Cheng, Hang-Tong Hu, Xiao-Zhou Lu, Ming-De Li, Rui-Fang Lu, Dan-Ni He, Peng Lin, Qiu-Ping Ma, Hui Huang, Si-Min Ruan, Wei-Ping Ke, Bing Liao, Bi-Hui Zhong, Jie Ren, Ming-De Lu, Xiao-Yan Xie, Wei Wang},
 title = {US-based Sequential Algorithm Integrating an AI Model for Advanced Liver Fibrosis Screening},
 journal = {Radiology},
 volume = {311},
